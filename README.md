@@ -1,5 +1,5 @@
 # netflix-clone
-Site clone da Netflix que construi como projeto do Take Blip Web Developer bootcamp, da Digital Innovation One
+Clone da interface da Netflix que construí como projeto do Take Blip Web Developer bootcamp, da Digital Innovation One
 
 Descrição do Desafio
 
